@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Going to school
+* Helping people
+* Helping myself
